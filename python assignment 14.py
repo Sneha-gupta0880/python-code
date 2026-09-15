@@ -1,0 +1,9 @@
+diagonal=46
+first_triangle_height=13
+first_triangle_base=46
+first_triangle_area=(first_triangle_height*first_triangle_base)/2
+second_triangle_height=10
+second_triangle_base=46
+second_triangle_area=(second_triangle_height*second_triangle_base)/2
+total_area=first_triangle_area+second_triangle_area
+print(total_area)
